@@ -13,9 +13,9 @@ A locally led, university-backed island lab for bee pest surveillance, practical
 
 The mission should be blunt and practical:
 
-**Keep Straddie’s bees alive, protect local beekeepers, generate publishable science, and turn the island into a model for community-led bee biosecurity.**
+**Keep Straddie’s bees alive, support self-sovereign beekeepers, generate publishable science, and turn the island into a model for community-led bee biosecurity.**
 
-The existing feasibility report already identified the Moreton Bay Research Station as the obvious Straddie base, because it has research laboratories, field access, accommodation and equipment; it also warned that governance, QYAC consultation, biodiscovery rules and APVMA permits matter if the project collects native materials or trials unregistered treatments.  The correction is that **phase one should not be timid**. It should be an **actual island lab**, even if the highest-end molecular chemistry is initially supported by mainland university facilities.
+The corrected premise is not to move into or lean on an existing facility as the assumed base. The project should add capacity rather than take capacity from marine research, community facilities or any other island work. The first phase should be a **digital-twin-first planning lab**: model site options, access, neighbours, services, Country, transport, risk, mobile routes and new-build needs before choosing any physical location. The eventual island lab can still be real, but the site should be selected through co-op stewardship and evidence rather than declared up front.
 
 ## Core change in strategy
 
@@ -31,13 +31,13 @@ It should include varroa monitoring, small hive beetle counts, hive strength, co
 
 ## The actual lab on Straddie
 
-The fastest real-world version is a **two-site island model**.
+The fastest real-world version is a **digital-twin-first new-capacity model**.
 
-**Site 1: lab and training base at UQ Moreton Bay Research Station, Dunwich.**
-MBRS is located on Minjerribah / North Stradbroke Island and the Queensland science capability directory says it has accommodation for up to 100 people, modern research laboratories, teaching space, lecture theatres, boating and field facilities, equipped research labs, microscopes, centrifuges, a microplate reader, ultrapure water and an equipment store. ([Department of Science QLD][3]) UQ also publishes the station contact point at 37 Fraser Street, Dunwich, with facilities open seven days a week. ([moreton-bay.research.uq.edu.au][4])
+**Layer 1: digital twin and site-options model.**
+No location is chosen. The first working model should map possible new sites, mobile lab routes, service needs, access, neighbours, roads, water, power, waste, cultural respect, fire risk, field proximity, training space and community benefit. It should explicitly ask: what would add bee-health capacity without taking away from existing research, public or community facilities?
 
-**Site 2: community apiary and beekeeper field node.**
-This should be a separate, locally agreed demonstration and sentinel apiary, not hidden inside the university station. It could be near Dunwich, Amity or another approved site, depending on land access, neighbours, fire risk, vehicle access, cultural heritage, and beekeeper preference. This is where local beekeepers test practical monitoring systems, trap designs, hive hygiene methods, queen/brood-break techniques, and registered treatments under proper guidance.
+**Layer 2: community apiary and beekeeper field nodes.**
+These should be locally agreed demonstration and sentinel apiary options, also tested in the digital twin before any physical commitment. Possible nodes could be near different communities or mobile rather than fixed, depending on land access, neighbours, fire risk, vehicle access, cultural respect and beekeeper preference. This is where local beekeepers test practical monitoring systems, trap designs, hive hygiene methods, queen/brood-break techniques, and registered treatments under proper guidance.
 
 The lab should have five rooms or zones:
 
@@ -49,7 +49,7 @@ The lab should have five rooms or zones:
 | Small hive beetle room       | Controlled work on beetle behaviour, traps, repellents and attractants     | double-screened insectary cabinet, trap prototypes, soil pupation containers, freezer kill step |
 | Training and data room       | Beekeeper workshops, dashboard, reporting help                             | screen, laptop station, printed protocols, map wall, secure beekeeper data system               |
 
-High-end GC-MS chemistry, qPCR confirmation, residues and viral diagnostics can be outsourced at first to UQ, SCU, QUT, Griffith, CSIRO or another partner. The Straddie lab still remains real because the **sampling, microscopy, field trials, training, beetle work, beekeeper support and island dataset** happen on the island.
+High-end GC-MS chemistry, qPCR confirmation, residues and viral diagnostics can be outsourced at first to universities, CSIRO or another partner. The Straddie lab still remains real because the **sampling, microscopy, field trials, training, beetle work, beekeeper support, digital twin and island dataset** happen for the island, with new capacity added over time.
 
 ## First 30 days: local action, not paperwork paralysis
 
@@ -57,12 +57,12 @@ The first move is to form a **Straddie Bee Pest Working Group**.
 
 It should include:
 
-Local beekeepers from Amity, Dunwich and Point Lookout; QYAC or Quandamooka representatives; UQ MBRS; Biosecurity Queensland / DPI; Queensland Beekeepers’ Association; Southern Cross University’s Bee Research and Extension Lab; Redland City Council; and one person responsible for data privacy so beekeepers are not punished for being honest.
+Local beekeepers from Amity, Dunwich and Point Lookout; Traditional Custodians and community representatives who choose to join; university and technical partners; Biosecurity Queensland / DPI; Queensland Beekeepers’ Association; Southern Cross University’s Bee Research and Extension Lab; Redland City Council; digital-twin/site-options helpers; and one person responsible for chosen sharing levels so beekeepers can contribute on their own terms.
 
 The first 30 days should produce four things.
 
-**1. A confidential beekeeper register for the project.**
-Not a public map of everyone’s hives. A protected working register that allows de-identified island-level mapping.
+**1. A beekeeper-owned working register for the project.**
+Not a forced public map of everyone’s hives. A working register with opt-in sharing levels, from broad island patterns through to named examples where people choose that.
 
 **2. A local pest evidence protocol.**
 Every suspicious mite or beetle sample gets photographed, labelled by date and hive code, checked under a microscope, and preserved. Varroa detections should be reported through official channels because Queensland requires reporting and control/containment. ([Business Queensland][1]) Queensland’s Bee 123 pathway is already used for varroa hive checks and reporting. ([Business Queensland][5])
@@ -87,7 +87,7 @@ It should do the following:
 | Pest confirmation         | Straddie lab + Biosecurity Qld    | confirmed ID records for varroa, SHB, suspicious exotic pests              |
 | Beetle pressure map       | Beekeepers + lab                  | trap counts, slime-out history, high-risk seasonal zones                   |
 | Mite pressure map         | Beekeepers + lab                  | monthly mite load data, treatment history, re-infestation clues            |
-| Native plant shortlist    | QYAC + botanist + beekeepers      | lawful list of candidate plants/extracts for lab testing                   |
+| Native plant shortlist    | Traditional Custodians who choose to join + botanist + beekeepers | lawful list of candidate plants/extracts for lab testing |
 | Treatment practice review | SCU/QBA/Biosecurity Qld           | safe rotation and monitoring education, no cowboy chemistry                |
 | Funding proposal          | working group                     | grant-ready case for a permanent lab                                       |
 
@@ -100,16 +100,16 @@ Do not send universities a vague “please help the bees” request. Send them a
 The partner pack should include:
 
 1. **Problem:** mites and beetles are being reported by Straddie beekeepers; Queensland has entered management mode; SEQ has resistant varroa concerns. ([Business Queensland][1])
-2. **Asset:** Straddie already has MBRS, a functioning research and teaching base on Quandamooka Country. ([Department of Science QLD][3])
+2. **Asset:** Straddie has local beekeepers, field reality, community energy and a chance to add new bee-health capacity rather than occupying someone else’s facility.
 3. **Community:** local beekeepers are organised and willing to provide samples, field observations and practical knowledge.
-4. **Governance:** the project will be co-designed with Quandamooka authority, not bolted on later. UQ and QYAC already signed an agreement in 2019 for joint research and development projects, which gives this idea an existing relationship to build from. ([moreton-bay.research.uq.edu.au][6])
+4. **Stewardship:** the project should invite everyone into a co-op model of responsible stewardship. No organisation is assumed to be in charge before the conversation happens.
 5. **Research value:** bee biosecurity, resistant varroa, small hive beetle, native plant chemistry, community surveillance and island ecology.
 6. **Ask:** nominate one academic lead, one technical contact, one student project pathway, and one in-kind facility/service contribution.
 
 ### Best partner sequence
 
-**1. UQ / Moreton Bay Research Station**
-Ask UQ to host the physical island lab and provide station access, teaching space and safety systems. MBRS is already positioned for terrestrial and marine research and education on Moreton Bay’s islands. ([moreton-bay.research.uq.edu.au][7])
+**1. Digital twin and site-options partners**
+Ask universities, council, local mappers, civic technologists, makers and beekeepers to build a digital twin before choosing any location. The first partner ask is modelling, not occupation of an existing facility.
 
 **2. Southern Cross University Bee Research and Extension Lab**
 Ask SCU to lead practical bee-health extension and IPM design. SCU’s Bee Research and Extension Lab says its focus includes honey bee pests, diseases and biosecurity, affordable and effective IPM strategies, and Varroa and Tropilaelaps mites. ([Southern Cross University][8])
@@ -130,13 +130,13 @@ The lab should have a founding governance structure like this:
 | Seat                                        | Role                                                      |
 | ------------------------------------------- | --------------------------------------------------------- |
 | 2 local beekeeper seats                     | practical hive knowledge, field priorities, early warning |
-| 2 Quandamooka / QYAC-aligned seats          | cultural authority, Country, benefit-sharing, local jobs  |
-| 1 UQ/MBRS seat                              | station access, safety, research compliance               |
+| Country and community care seats            | cultural respect, place, benefit-sharing, local jobs       |
+| 1 digital twin / site-options seat          | modelling, access, services, planning options              |
 | 1 bee research university seat, ideally SCU | bee pest science and extension                            |
 | 1 Biosecurity Queensland observer           | reporting, legal compliance, official pathway             |
 | 1 Redland / local economic development seat | facilities, grants, community connection                  |
 | 1 independent science chair                 | keeps research standards high                             |
-| 1 data/privacy officer                      | protects beekeeper trust                                  |
+| 1 sharing steward                           | helps beekeepers choose their contribution level           |
 
 The key principle: **beekeepers are not “participants”; they are co-researchers.**
 
@@ -205,7 +205,7 @@ Candidate groups:
 | Eucalypt oils/extracts                 | strongest existing lead in the uploaded review                             |
 | Lemon myrtle / *Backhousia citriodora* | Queensland-native, citral-rich, high-upside but needs bee-safety work      |
 | Tea tree / *Melaleuca alternifolia*    | Australian comparator already discussed in varroa essential-oil literature |
-| Local Myrtaceae and coastal plants     | only after QYAC/co-designed collection and biodiscovery pathway            |
+| Local Myrtaceae and coastal plants     | only after the right people are invited into collection, cultural respect, stewardship and biodiscovery pathways |
 
 Test sequence:
 
@@ -298,16 +298,16 @@ That connects neatly with your broader Aura of Intelligence / G.A.J.R.A. Earth t
 Here is the practical next move.
 
 **Step 1: convene the Straddie beekeepers.**
-Hold a meeting at Amity, Dunwich or MBRS. The agenda is not “please tell experts what you saw.” It is: “What are we already seeing, what are we already doing, and what support would make a difference?”
+Hold a meeting at a local hall, apiary, online room or other place people choose. The agenda is not “please tell experts what you saw.” It is: “What are we already seeing, what are we already doing, and what support would make a difference?”
 
 **Step 2: appoint three temporary coordinators.**
-One beekeeper coordinator, one university/funding coordinator, one QYAC/community governance coordinator.
+One beekeeper coordinator, one university/funding coordinator, one co-op stewardship and community invitation coordinator.
 
 **Step 3: produce the Straddie Bee Health Situation Report.**
 Two pages. No fluff. Local observations, number of willing beekeepers, sample photos, current Queensland varroa status, proposed lab, partner asks.
 
-**Step 4: ask UQ MBRS for a meeting.**
-The ask: a bench, a training room, a safety pathway, and permission to build a university-backed island bee lab pilot.
+**Step 4: build the site-options digital twin.**
+The ask: mapping help, service assumptions, access checks, community inputs, mobile-lab possibilities and a new-capacity pathway before choosing any physical site.
 
 **Step 5: ask SCU Bee Research and Extension Lab for technical partnership.**
 The ask: help design mite/beetle monitoring protocols, beekeeper extension, and IPM training.
@@ -322,17 +322,13 @@ Use the first funds for microscopes, monitoring kits, a part-time technician, be
 
 The revised plan is:
 
-**Build the lab on Straddie. Start with local beekeeper evidence. Use MBRS as the first physical base. Bring in UQ and SCU first. Add QUT, Griffith, DPI, QBA and CSIRO around defined work packages. Protect beekeeper trust. Co-design with Quandamooka authority. Treat mites and beetles as an active island problem now. Grow the lab into an institute, then only later into a registered higher education provider or university.**
+**Build new bee-health capacity for Straddie. Start with local beekeeper evidence. Build the digital twin before choosing a physical site. Bring in universities, DPI, QBA, CSIRO, council, makers and community allies around defined work packages. Let beekeepers choose their sharing level. Use co-op stewardship rather than a fixed boss model. Treat mites and beetles as an active island problem now. Grow the lab into an institute, then only later into a registered higher education provider or university.**
 
 That gives you a serious plan, not a polite academic shrug.
 
 [1]: https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/animal/industries/bees/pests-diseases "Pests and diseases in bees | Business Queensland"
 [2]: https://beeaware.org.au/archive-pest/small-hive-beetle/ "Small hive beetle « Bee Aware"
-[3]: https://science.qld.gov.au/research/capability-directory/moreton-bay-research-station "Moreton Bay Research Station | Science | Department of the Environment, Tourism, Science and Innovation, Queensland"
-[4]: https://moreton-bay.research.uq.edu.au/contact "Contact - Moreton Bay Research Station - University of Queensland"
 [5]: https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/animal/industries/bees/varroa-mite/report-hive-check?utm_source=chatgpt.com "Bee 123: Varroa mite hive check"
-[6]: https://moreton-bay.research.uq.edu.au/article/2019/09/uq-partners-north-stradbroke-indigenous-community "UQ partners with North Stradbroke Indigenous community - Moreton Bay Research Station - University of Queensland"
-[7]: https://moreton-bay.research.uq.edu.au/ "Moreton Bay Research Station - University of Queensland"
 [8]: https://www.scu.edu.au/research/bee-research-and-extension-lab/ "Bee Research and Extension Lab - Southern Cross University"
 [9]: https://about.uq.edu.au/experts/project/68525 "Precision receptor-specific miticides for safeguarding Australian bees (ARC Discovery Projects administered by University of the Sunshine Coast) | Project | UQ Experts"
 [10]: https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/animal/industries/bees/register?utm_source=chatgpt.com "Hive registration and branding"

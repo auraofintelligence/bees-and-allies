@@ -14,10 +14,10 @@ The site is built as static HTML, CSS and JavaScript for GitHub Pages. It keeps 
 
 - `index.html` - public gateway
 - `local-hives.html` - local hive observations and census
-- `island-lab.html` - physical lab and field node model
+- `island-lab.html` - digital-twin-first new capacity model
 - `biosecurity.html` - careful reporting, movement and permit edges
 - `research.html` - surveillance, response and native plant testing gates
-- `partners.html` - partner pack and governance table
+- `partners.html` - partner pack and co-op stewardship table
 - `institute.html` - staged institute and field school pathway
 - `sources.html` - source links and image notes
 

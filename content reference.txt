@@ -1,6 +1,6 @@
-You’re right. The plan should not sound like Straddie beekeepers are passive observers waiting for mainland experts. The revised premise is:
+You’re right. The plan does not need to sound like Straddie beekeepers are passive observers waiting for mainland experts. The revised premise is:
 
-**The bees are already under pressure on Minjerribah / North Stradbroke Island; local beekeepers are already acting; the lab should be physically on Straddie; universities should be invited in as partners to support local leadership, not replace it.**
+**The bees are already under pressure on Minjerribah / North Stradbroke Island; local beekeepers are already acting; the lab could add new capacity for Straddie; universities could be invited in as partners to support local leadership, not replace it.**
 
 The earlier advice can be reframed from “don’t bring pests to the island” to **“do not import or casually move pests, but if mites and beetles are already being found by local beekeepers, build an island verification, response, research and training lab around that reality.”** Queensland already treats *Varroa destructor* as notifiable restricted matter, and official Queensland guidance says beekeepers must report, control or contain it; it also notes resistant varroa has been detected in South East Queensland. ([Business Queensland][1]) Small hive beetle is also highly plausible locally because Bee Aware says it has had major impact through the warm, humid coastal strip from Victoria to North Queensland. ([beeaware.org.au][2])
 
@@ -11,11 +11,11 @@ Call it something like:
 **Minjerribah / Straddie Bee Resilience Lab**
 A locally led, university-backed island lab for bee pest surveillance, practical control, native-plant bioassays, beekeeper training, and community biosecurity.
 
-The mission should be blunt and practical:
+The mission can be blunt and practical:
 
 **Keep Straddie’s bees alive, support self-sovereign beekeepers, generate publishable science, and turn the island into a model for community-led bee biosecurity.**
 
-The corrected premise is not to move into or lean on an existing facility as the assumed base. The project should add capacity rather than take capacity from marine research, community facilities or any other island work. The first phase should be a **digital-twin-first planning lab**: model site options, access, neighbours, services, Country, transport, risk, mobile routes and new-build needs before choosing any physical location. The eventual island lab can still be real, but the site should be selected through co-op stewardship and evidence rather than declared up front.
+The corrected premise is not to move into or lean on an existing facility as the assumed base. The project can add capacity rather than take capacity from marine research, community facilities or any other island work. The first phase could be a **digital-twin-first planning lab**: model site options, access, neighbours, services, Country, transport, risk, mobile routes and new-build needs before choosing any physical location. The eventual island lab can still be real, but the site can be selected through co-op stewardship and evidence rather than declared up front.
 
 ## Core change in strategy
 
@@ -27,19 +27,19 @@ The first lab question is not “could pests arrive?” It is:
 
 That means the first work package is an **Island Bee Health Census**, run with local beekeepers.
 
-It should include varroa monitoring, small hive beetle counts, hive strength, colony losses, treatments already used, known slime-outs, queen status, brood pattern, honey flow conditions, native forage conditions, and whether the same yards are seeing both mite and beetle pressure. The uploaded report noted that beetle losses can become worse where colonies are already stressed by mites, which is exactly why Straddie needs a combined mite-and-beetle plan rather than a single-pest response.
+It could include varroa monitoring, small hive beetle counts, hive strength, colony losses, treatments already used, known slime-outs, queen status, brood pattern, honey flow conditions, native forage conditions, and whether the same yards are seeing both mite and beetle pressure. The uploaded report noted that beetle losses can become worse where colonies are already stressed by mites, which is exactly why Straddie needs a combined mite-and-beetle plan rather than a single-pest response.
 
 ## The actual lab on Straddie
 
 The fastest real-world version is a **digital-twin-first new-capacity model**.
 
 **Layer 1: digital twin and site-options model.**
-No location is chosen. The first working model should map possible new sites, mobile lab routes, service needs, access, neighbours, roads, water, power, waste, cultural respect, fire risk, field proximity, training space and community benefit. It should explicitly ask: what would add bee-health capacity without taking away from existing research, public or community facilities?
+No location is chosen. The first working model could map possible new sites, mobile lab routes, service needs, access, neighbours, roads, water, power, waste, cultural respect, fire risk, field proximity, training space and community benefit. It could explicitly ask: what would add bee-health capacity without taking away from existing research, public or community facilities?
 
 **Layer 2: community apiary and beekeeper field nodes.**
-These should be locally agreed demonstration and sentinel apiary options, also tested in the digital twin before any physical commitment. Possible nodes could be near different communities or mobile rather than fixed, depending on land access, neighbours, fire risk, vehicle access, cultural respect and beekeeper preference. This is where local beekeepers test practical monitoring systems, trap designs, hive hygiene methods, queen/brood-break techniques, and registered treatments under proper guidance.
+These could be locally agreed demonstration and sentinel apiary options, also tested in the digital twin before any physical commitment. Possible nodes could be near different communities or mobile rather than fixed, depending on land access, neighbours, fire risk, vehicle access, cultural respect and beekeeper preference. This is where local beekeepers test practical monitoring systems, trap designs, hive hygiene methods, queen/brood-break techniques, and registered treatments under proper guidance.
 
-The lab should have five rooms or zones:
+The lab could have six rooms, benches or zones:
 
 | Zone                         | Purpose                                                                    | Minimum equipment                                                                               |
 | ---------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -55,17 +55,17 @@ High-end GC-MS chemistry, qPCR confirmation, residues and viral diagnostics can 
 
 The first move is to form a **Straddie Bee Pest Working Group**.
 
-It should include:
+It could include:
 
 Local beekeepers from Amity, Dunwich and Point Lookout; Traditional Custodians and community representatives who choose to join; university and technical partners; Biosecurity Queensland / DPI; Queensland Beekeepers’ Association; Southern Cross University’s Bee Research and Extension Lab; Redland City Council; digital-twin/site-options helpers; and one person responsible for chosen sharing levels so beekeepers can contribute on their own terms.
 
-The first 30 days should produce four things.
+The first 30 days could produce four things.
 
 **1. A beekeeper-owned working register for the project.**
 Not a forced public map of everyone’s hives. A working register with opt-in sharing levels, from broad island patterns through to named examples where people choose that.
 
 **2. A local pest evidence protocol.**
-Every suspicious mite or beetle sample gets photographed, labelled by date and hive code, checked under a microscope, and preserved. Varroa detections should be reported through official channels because Queensland requires reporting and control/containment. ([Business Queensland][1]) Queensland’s Bee 123 pathway is already used for varroa hive checks and reporting. ([Business Queensland][5])
+Every suspicious mite or beetle sample gets photographed, labelled by date and hive code, checked under a microscope, and preserved. Varroa detections go through official channels because Queensland requires reporting and control/containment. ([Business Queensland][1]) Queensland’s Bee 123 pathway is already used for varroa hive checks and reporting. ([Business Queensland][5])
 
 **3. A “beekeeper first aid” kit.**
 Alcohol wash/sugar shake kits, sticky boards or equivalent monitoring tools, small hive beetle traps, sample jars, gloves, hive record sheets, QR-coded reporting help, and clear instructions on what not to move between apiaries.
@@ -75,11 +75,11 @@ This is the document used to approach universities and funders. It says: local b
 
 ## First 90 days: prove the need and make universities useful
 
-The 90-day pilot should be called:
+The 90-day pilot could be called:
 
 **Island Bee Health Census and Rapid Response Pilot**
 
-It should do the following:
+It could do the following:
 
 | Work package              | Lead                              | Output                                                                     |
 | ------------------------- | --------------------------------- | -------------------------------------------------------------------------- |
@@ -97,12 +97,12 @@ This pilot does not require the island to wait for a PhD project. The science be
 
 Do not send universities a vague “please help the bees” request. Send them a **structured partner pack** with a clear ask.
 
-The partner pack should include:
+The partner pack could include:
 
 1. **Problem:** mites and beetles are being reported by Straddie beekeepers; Queensland has entered management mode; SEQ has resistant varroa concerns. ([Business Queensland][1])
 2. **Asset:** Straddie has local beekeepers, field reality, community energy and a chance to add new bee-health capacity rather than occupying someone else’s facility.
 3. **Community:** local beekeepers are organised and willing to provide samples, field observations and practical knowledge.
-4. **Stewardship:** the project should invite everyone into a co-op model of responsible stewardship. No organisation is assumed to be in charge before the conversation happens.
+4. **Stewardship:** the project could invite everyone into a co-op model of responsible stewardship. No organisation is assumed to be in charge before the conversation happens.
 5. **Research value:** bee biosecurity, resistant varroa, small hive beetle, native plant chemistry, community surveillance and island ecology.
 6. **Ask:** nominate one academic lead, one technical contact, one student project pathway, and one in-kind facility/service contribution.
 
@@ -125,7 +125,7 @@ Keep them close so the lab does not accidentally become a parallel rogue biosecu
 
 ## Governance: local first, university supported
 
-The lab should have a founding governance structure like this:
+The lab could have a founding co-op stewardship structure like this:
 
 | Seat                                        | Role                                                      |
 | ------------------------------------------- | --------------------------------------------------------- |
@@ -140,13 +140,13 @@ The lab should have a founding governance structure like this:
 
 The key principle: **beekeepers are not “participants”; they are co-researchers.**
 
-They should be paid for structured data collection when funding allows. Local knowledge should be acknowledged in reports. No student or academic should be allowed to extract data, publish and vanish. No worries, mate — that sort of academic fly-in/fly-out nonsense would get swatted faster than a hive beetle on the lid.
+They could be paid for structured data collection when funding allows. Local knowledge can be acknowledged in reports. No student or academic gets to extract data, publish and vanish. No worries, mate — that sort of academic fly-in/fly-out nonsense would get swatted faster than a hive beetle on the lid.
 
 ## Biosecurity and legal pathway
 
 This plan can be bold without being reckless.
 
-The operating rules should be:
+The operating rules could be:
 
 **Do not import mites or beetles to Straddie.** Work with what is already present, lawfully collected, or officially supplied under permit.
 
@@ -160,9 +160,9 @@ The operating rules should be:
 
 **Handle native plant work properly.** Queensland biodiscovery rules require collection authority and benefit-sharing arrangements before collecting and using native biological resources from State land or Queensland waters for biodiscovery. ([Environment Queensland][13]) A benefit-sharing agreement must be in place before biodiscovery begins. ([Business Queensland][14])
 
-## Research program: what the Straddie lab should actually do
+## Research program: what the Straddie lab could actually do
 
-The uploaded report already identified eucalypt chemistry, lemon myrtle and tea tree as priority native-plant candidates, while warning that bee safety, residues and delivery systems matter more than whether something kills pests in a dish.  The Straddie lab should turn that into field-relevant work.
+The uploaded report already identified eucalypt chemistry, lemon myrtle and tea tree as priority native-plant candidates, while warning that bee safety, residues and delivery systems matter more than whether something kills pests in a dish.  The Straddie lab could turn that into field-relevant work.
 
 ### Workstream A: pest confirmation and surveillance
 
@@ -180,7 +180,7 @@ Monthly local monitoring:
 
 This is where the lab earns trust.
 
-The lab should run monthly practical sessions:
+The lab could run monthly practical sessions:
 
 **“Bring your board, beetles and brood frame photos.”**
 Beekeepers bring samples or images. The lab helps identify the problem and records anonymised data.
@@ -222,7 +222,7 @@ The rule is: **no hive trial unless it passes bee-safety, residue and delivery g
 
 ## Funding pathway
 
-The first funding target should not be a giant university immediately. It should be a stack:
+The first funding target does not need to be a giant university immediately. It could be a stack:
 
 | Layer                                                  | Purpose                                           | Scale                                                                                                                                                       |
 | ------------------------------------------------------ | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -263,19 +263,19 @@ Students from UQ, SCU, QUT and Griffith come to Straddie. Local beekeepers teach
 
 ### Stage 3: Registered higher education provider
 
-Once the institute has governance, staff, policies, quality assurance, finances, student support and curriculum, it can prepare a TEQSA application as an independent higher education provider. That is where it starts offering its own accredited course.
+If the institute has governance, staff, policies, quality assurance, finances, student support and curriculum, it can prepare a TEQSA application as an independent higher education provider. That is where it could start offering its own accredited course.
 
 First possible course:
 
 **Graduate Certificate in Community Biosecurity and Pollinator Resilience**
 
-### Stage 4: University College
+### Stage 4: University College option
 
-After years of credible teaching, research, finances and governance, the institute could apply to change category. TEQSA recognises provider categories including Institute of Higher Education, University College, Australian University and Overseas University, and registered providers can apply to change category. ([TEQSA][18])
+After credible teaching, research, finances and governance, the institute could apply to change category. TEQSA recognises provider categories including Institute of Higher Education, University College, Australian University and Overseas University, and registered providers can apply to change category. ([TEQSA][18])
 
-### Stage 5: Australian University
+### Stage 5: Australian University horizon
 
-Only after strong research output, research training, multiple disciplines, academic governance and national/international standing should it seek full university status.
+If strong research output, research training, multiple disciplines, academic governance and national/international standing become real, it could test whether full university status is appropriate.
 
 The believable long-term identity is not just “bee university.” It could become:
 

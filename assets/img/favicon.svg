@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bees and Allies icon">
+  <rect width="64" height="64" rx="12" fill="#071512"/>
+  <path d="M20 35c0-8 5-14 12-14s12 6 12 14-5 14-12 14-12-6-12-14Z" fill="#f2b83b"/>
+  <path d="M23 27h18M21 34h22M24 41h16" stroke="#071512" stroke-width="4" stroke-linecap="round"/>
+  <path d="M19 23c-7-7-14-2-12 5 2 6 9 5 14 1M45 23c7-7 14-2 12 5-2 6-9 5-14 1" fill="none" stroke="#4ab3c6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M32 17v-5M27 14l-4-4M37 14l4-4" stroke="#f6fbf4" stroke-width="3" stroke-linecap="round"/>
+</svg>

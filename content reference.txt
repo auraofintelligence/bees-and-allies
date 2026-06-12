@@ -1,0 +1,346 @@
+You’re right. The plan should not sound like Straddie beekeepers are passive observers waiting for mainland experts. The revised premise is:
+
+**The bees are already under pressure on Minjerribah / North Stradbroke Island; local beekeepers are already acting; the lab should be physically on Straddie; universities should be invited in as partners to support local leadership, not replace it.**
+
+The earlier advice can be reframed from “don’t bring pests to the island” to **“do not import or casually move pests, but if mites and beetles are already being found by local beekeepers, build an island verification, response, research and training lab around that reality.”** Queensland already treats *Varroa destructor* as notifiable restricted matter, and official Queensland guidance says beekeepers must report, control or contain it; it also notes resistant varroa has been detected in South East Queensland. ([Business Queensland][1]) Small hive beetle is also highly plausible locally because Bee Aware says it has had major impact through the warm, humid coastal strip from Victoria to North Queensland. ([beeaware.org.au][2])
+
+## Revised plan: Straddie Bee Resilience Lab
+
+Call it something like:
+
+**Minjerribah / Straddie Bee Resilience Lab**
+A locally led, university-backed island lab for bee pest surveillance, practical control, native-plant bioassays, beekeeper training, and community biosecurity.
+
+The mission should be blunt and practical:
+
+**Keep Straddie’s bees alive, protect local beekeepers, generate publishable science, and turn the island into a model for community-led bee biosecurity.**
+
+The existing feasibility report already identified the Moreton Bay Research Station as the obvious Straddie base, because it has research laboratories, field access, accommodation and equipment; it also warned that governance, QYAC consultation, biodiscovery rules and APVMA permits matter if the project collects native materials or trials unregistered treatments.  The correction is that **phase one should not be timid**. It should be an **actual island lab**, even if the highest-end molecular chemistry is initially supported by mainland university facilities.
+
+## Core change in strategy
+
+The local beekeeper reports become the beginning of the project, not an anecdote on the side.
+
+The first lab question is not “could pests arrive?” It is:
+
+**What exactly is already on the island, where is it, how heavy is the pressure, what are beekeepers already doing, and what support would actually help?**
+
+That means the first work package is an **Island Bee Health Census**, run with local beekeepers.
+
+It should include varroa monitoring, small hive beetle counts, hive strength, colony losses, treatments already used, known slime-outs, queen status, brood pattern, honey flow conditions, native forage conditions, and whether the same yards are seeing both mite and beetle pressure. The uploaded report noted that beetle losses can become worse where colonies are already stressed by mites, which is exactly why Straddie needs a combined mite-and-beetle plan rather than a single-pest response.
+
+## The actual lab on Straddie
+
+The fastest real-world version is a **two-site island model**.
+
+**Site 1: lab and training base at UQ Moreton Bay Research Station, Dunwich.**
+MBRS is located on Minjerribah / North Stradbroke Island and the Queensland science capability directory says it has accommodation for up to 100 people, modern research laboratories, teaching space, lecture theatres, boating and field facilities, equipped research labs, microscopes, centrifuges, a microplate reader, ultrapure water and an equipment store. ([Department of Science QLD][3]) UQ also publishes the station contact point at 37 Fraser Street, Dunwich, with facilities open seven days a week. ([moreton-bay.research.uq.edu.au][4])
+
+**Site 2: community apiary and beekeeper field node.**
+This should be a separate, locally agreed demonstration and sentinel apiary, not hidden inside the university station. It could be near Dunwich, Amity or another approved site, depending on land access, neighbours, fire risk, vehicle access, cultural heritage, and beekeeper preference. This is where local beekeepers test practical monitoring systems, trap designs, hive hygiene methods, queen/brood-break techniques, and registered treatments under proper guidance.
+
+The lab should have five rooms or zones:
+
+| Zone                         | Purpose                                                                    | Minimum equipment                                                                               |
+| ---------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Sample receiving bench       | Log samples from local hives without cross-contamination                   | sealed sample boxes, labels, chain-of-custody forms, freezer, disinfectant station              |
+| Microscopy and ID bench      | Confirm mites, beetles, larvae, brood symptoms                             | stereomicroscopes, compound microscope, camera mount, reference ID sheets                       |
+| Bee safety and bioassay room | Test candidate plant extracts and trap materials safely before hive trials | bee cages, incubator, humidity control, scales, microplates, timer/data logging                 |
+| Small hive beetle room       | Controlled work on beetle behaviour, traps, repellents and attractants     | double-screened insectary cabinet, trap prototypes, soil pupation containers, freezer kill step |
+| Training and data room       | Beekeeper workshops, dashboard, reporting help                             | screen, laptop station, printed protocols, map wall, secure beekeeper data system               |
+
+High-end GC-MS chemistry, qPCR confirmation, residues and viral diagnostics can be outsourced at first to UQ, SCU, QUT, Griffith, CSIRO or another partner. The Straddie lab still remains real because the **sampling, microscopy, field trials, training, beetle work, beekeeper support and island dataset** happen on the island.
+
+## First 30 days: local action, not paperwork paralysis
+
+The first move is to form a **Straddie Bee Pest Working Group**.
+
+It should include:
+
+Local beekeepers from Amity, Dunwich and Point Lookout; QYAC or Quandamooka representatives; UQ MBRS; Biosecurity Queensland / DPI; Queensland Beekeepers’ Association; Southern Cross University’s Bee Research and Extension Lab; Redland City Council; and one person responsible for data privacy so beekeepers are not punished for being honest.
+
+The first 30 days should produce four things.
+
+**1. A confidential beekeeper register for the project.**
+Not a public map of everyone’s hives. A protected working register that allows de-identified island-level mapping.
+
+**2. A local pest evidence protocol.**
+Every suspicious mite or beetle sample gets photographed, labelled by date and hive code, checked under a microscope, and preserved. Varroa detections should be reported through official channels because Queensland requires reporting and control/containment. ([Business Queensland][1]) Queensland’s Bee 123 pathway is already used for varroa hive checks and reporting. ([Business Queensland][5])
+
+**3. A “beekeeper first aid” kit.**
+Alcohol wash/sugar shake kits, sticky boards or equivalent monitoring tools, small hive beetle traps, sample jars, gloves, hive record sheets, QR-coded reporting help, and clear instructions on what not to move between apiaries.
+
+**4. A one-page Straddie Bee Health Situation Report.**
+This is the document used to approach universities and funders. It says: local beekeepers are observing mites and beetles; Queensland has an active varroa management problem; Straddie has an existing research station; the community is ready; and partners are invited to help build an island lab.
+
+## First 90 days: prove the need and make universities useful
+
+The 90-day pilot should be called:
+
+**Island Bee Health Census and Rapid Response Pilot**
+
+It should do the following:
+
+| Work package              | Lead                              | Output                                                                     |
+| ------------------------- | --------------------------------- | -------------------------------------------------------------------------- |
+| Local hive census         | Local beekeepers + lab technician | number of participating hives, de-identified zones, hive strength baseline |
+| Pest confirmation         | Straddie lab + Biosecurity Qld    | confirmed ID records for varroa, SHB, suspicious exotic pests              |
+| Beetle pressure map       | Beekeepers + lab                  | trap counts, slime-out history, high-risk seasonal zones                   |
+| Mite pressure map         | Beekeepers + lab                  | monthly mite load data, treatment history, re-infestation clues            |
+| Native plant shortlist    | QYAC + botanist + beekeepers      | lawful list of candidate plants/extracts for lab testing                   |
+| Treatment practice review | SCU/QBA/Biosecurity Qld           | safe rotation and monitoring education, no cowboy chemistry                |
+| Funding proposal          | working group                     | grant-ready case for a permanent lab                                       |
+
+This pilot does not require the island to wait for a PhD project. The science begins with beekeeper observations, then adds university-grade measurement.
+
+## How to get local universities involved
+
+Do not send universities a vague “please help the bees” request. Send them a **structured partner pack** with a clear ask.
+
+The partner pack should include:
+
+1. **Problem:** mites and beetles are being reported by Straddie beekeepers; Queensland has entered management mode; SEQ has resistant varroa concerns. ([Business Queensland][1])
+2. **Asset:** Straddie already has MBRS, a functioning research and teaching base on Quandamooka Country. ([Department of Science QLD][3])
+3. **Community:** local beekeepers are organised and willing to provide samples, field observations and practical knowledge.
+4. **Governance:** the project will be co-designed with Quandamooka authority, not bolted on later. UQ and QYAC already signed an agreement in 2019 for joint research and development projects, which gives this idea an existing relationship to build from. ([moreton-bay.research.uq.edu.au][6])
+5. **Research value:** bee biosecurity, resistant varroa, small hive beetle, native plant chemistry, community surveillance and island ecology.
+6. **Ask:** nominate one academic lead, one technical contact, one student project pathway, and one in-kind facility/service contribution.
+
+### Best partner sequence
+
+**1. UQ / Moreton Bay Research Station**
+Ask UQ to host the physical island lab and provide station access, teaching space and safety systems. MBRS is already positioned for terrestrial and marine research and education on Moreton Bay’s islands. ([moreton-bay.research.uq.edu.au][7])
+
+**2. Southern Cross University Bee Research and Extension Lab**
+Ask SCU to lead practical bee-health extension and IPM design. SCU’s Bee Research and Extension Lab says its focus includes honey bee pests, diseases and biosecurity, affordable and effective IPM strategies, and Varroa and Tropilaelaps mites. ([Southern Cross University][8])
+
+**3. UQ / University of the Sunshine Coast linked varroa miticide research**
+There is already a project listed through UQ Experts on precision receptor-specific miticides, aiming to characterise varroa receptors and develop varroa-specific miticides safe for bees. That is exactly the kind of high-end science the Straddie lab could feed with field samples and practical beekeeper data. ([About][9])
+
+**4. QUT / Griffith / UniSQ / JCU as specialist partners**
+Use them for sensors, dashboards, environmental science, social licence, chemistry, education design, agriculture extension and tropical biosecurity. They do not all need to own the project. They can own specific work packages.
+
+**5. DPI, QBA, Plant Health Australia and CSIRO as official/technical advisors**
+Keep them close so the lab does not accidentally become a parallel rogue biosecurity system. That matters because varroa is notifiable and movement/treatment rules can change.
+
+## Governance: local first, university supported
+
+The lab should have a founding governance structure like this:
+
+| Seat                                        | Role                                                      |
+| ------------------------------------------- | --------------------------------------------------------- |
+| 2 local beekeeper seats                     | practical hive knowledge, field priorities, early warning |
+| 2 Quandamooka / QYAC-aligned seats          | cultural authority, Country, benefit-sharing, local jobs  |
+| 1 UQ/MBRS seat                              | station access, safety, research compliance               |
+| 1 bee research university seat, ideally SCU | bee pest science and extension                            |
+| 1 Biosecurity Queensland observer           | reporting, legal compliance, official pathway             |
+| 1 Redland / local economic development seat | facilities, grants, community connection                  |
+| 1 independent science chair                 | keeps research standards high                             |
+| 1 data/privacy officer                      | protects beekeeper trust                                  |
+
+The key principle: **beekeepers are not “participants”; they are co-researchers.**
+
+They should be paid for structured data collection when funding allows. Local knowledge should be acknowledged in reports. No student or academic should be allowed to extract data, publish and vanish. No worries, mate — that sort of academic fly-in/fly-out nonsense would get swatted faster than a hive beetle on the lid.
+
+## Biosecurity and legal pathway
+
+This plan can be bold without being reckless.
+
+The operating rules should be:
+
+**Do not import mites or beetles to Straddie.** Work with what is already present, lawfully collected, or officially supplied under permit.
+
+**Report notifiable pests.** Queensland says varroa is category 2 restricted matter and remains notifiable; beekeepers must report, control or contain it. ([Business Queensland][1])
+
+**Register and support local hives.** Queensland requires registration as a biosecurity entity if someone keeps one or more European honey bee hives. ([Business Queensland][10])
+
+**Follow the general biosecurity obligation.** Queensland’s GBO requires people and corporations to manage biosecurity risks under their control and not spread pests, diseases or contaminants. ([Qld Primary Industries][11])
+
+**Use APVMA pathways for experimental treatments.** If the lab wants to trial unregistered or off-label agvet chemicals, including plant-based products used as pest controls in hives, APVMA research permit rules matter. APVMA says research permits legalise research use of agvet chemicals in Australia, and some small-scale trials may fit within PER7250 if all conditions are met. ([APVMA][12])
+
+**Handle native plant work properly.** Queensland biodiscovery rules require collection authority and benefit-sharing arrangements before collecting and using native biological resources from State land or Queensland waters for biodiscovery. ([Environment Queensland][13]) A benefit-sharing agreement must be in place before biodiscovery begins. ([Business Queensland][14])
+
+## Research program: what the Straddie lab should actually do
+
+The uploaded report already identified eucalypt chemistry, lemon myrtle and tea tree as priority native-plant candidates, while warning that bee safety, residues and delivery systems matter more than whether something kills pests in a dish.  The Straddie lab should turn that into field-relevant work.
+
+### Workstream A: pest confirmation and surveillance
+
+Monthly local monitoring:
+
+| Target            | Method                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------ |
+| Varroa            | alcohol wash/sugar shake, brood inspection, sticky boards, photo ID, optional eDNA samples |
+| Small hive beetle | trap counts, adult beetle counts, larvae/slime-out records, soil/pupation risk notes       |
+| Brood diseases    | brood pattern records, dead brood photos, lab referral if suspicious                       |
+| Colony stress     | queen status, hive strength, nutrition, beetle correlation, recent treatment               |
+| Native bees       | non-invasive observations only, with separate protocols from honey bee hives               |
+
+### Workstream B: local beekeeper response
+
+This is where the lab earns trust.
+
+The lab should run monthly practical sessions:
+
+**“Bring your board, beetles and brood frame photos.”**
+Beekeepers bring samples or images. The lab helps identify the problem and records anonymised data.
+
+**“Treatment effectiveness checks.”**
+Not “spray this magic oil.” Instead: monitor before treatment, use legal treatments properly, monitor after treatment, record whether mite counts actually fell.
+
+**“Small hive beetle pressure days.”**
+Trap design, hive hygiene, avoiding deadouts and slime-outs, reducing empty space, managing weak colonies, and sharing what is working locally.
+
+**“Queen and brood-break methods.”**
+Teach brood interruption as a serious management tool, but with care around beetle risk because queen cages and weak colonies can create small hive beetle opportunities if done badly.
+
+### Workstream C: native plant bioassays
+
+Start with lab screens, not field hype.
+
+Candidate groups:
+
+| Candidate                              | Why                                                                        |
+| -------------------------------------- | -------------------------------------------------------------------------- |
+| Eucalypt oils/extracts                 | strongest existing lead in the uploaded review                             |
+| Lemon myrtle / *Backhousia citriodora* | Queensland-native, citral-rich, high-upside but needs bee-safety work      |
+| Tea tree / *Melaleuca alternifolia*    | Australian comparator already discussed in varroa essential-oil literature |
+| Local Myrtaceae and coastal plants     | only after QYAC/co-designed collection and biodiscovery pathway            |
+
+Test sequence:
+
+1. Beetle repellency/attraction assay.
+2. Beetle mortality assay.
+3. Adult bee safety assay.
+4. Brood/queen behavioural screen.
+5. Wax/honey taint and residue screen.
+6. Slow-release trap material.
+7. Small contained apiary pilot only if legal and safe.
+8. Wider field trial only with permits and university/regulator sign-off.
+
+The rule is: **no hive trial unless it passes bee-safety, residue and delivery gates.**
+
+## Funding pathway
+
+The first funding target should not be a giant university immediately. It should be a stack:
+
+| Layer                                                  | Purpose                                           | Scale                                                                                                                                                       |
+| ------------------------------------------------------ | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Local seed donations / beekeeper association support   | kits, microscopes, meeting costs                  | A$5k–A$25k                                                                                                                                                  |
+| Redland / community grants                             | community lab setup, education events             | A$10k–A$50k                                                                                                                                                 |
+| Queensland Community Bee Innovation Fund style funding | varroa monitoring, training, decision tools       | A$5k–A$50k per project; the official program is A$500k overall, though Round 3 was under assessment on the DPI page I found. ([Qld Primary Industries][15]) |
+| University in-kind                                     | lab access, student projects, analytical services | A$50k–A$250k equivalent                                                                                                                                     |
+| Philanthropy / industry                                | permanent lab build, technician salary            | A$250k–A$1m                                                                                                                                                 |
+| ARC Linkage / AgriFutures / CRC-style programs         | multi-year research centre                        | A$500k–A$5m+                                                                                                                                                |
+
+The earlier report’s rough order-of-magnitude costings are still useful: an embedded Straddie pilot was estimated around **A$650k–A$1.3m capex** and **A$450k–A$900k annual opex**, while a stand-alone island facility was estimated nearer **A$2.2m–A$4.5m capex** and higher annual running costs.
+
+## Build-new-university pathway
+
+This is possible, but the right sequence is not “announce a university tomorrow.” In Australia, “university” is a regulated status.
+
+TEQSA says a new provider applying for first registration must apply for initial registration and initial course accreditation, must meet the Higher Education Standards Framework, and must include accreditation of at least one course with the registration application. ([TEQSA][16]) TEQSA also says Australian University status involves research that creates new knowledge and research training as a defining feature, with research quality benchmarked at world standard or national standing in Australian-specific fields. ([TEQSA][17])
+
+So the practical pathway is:
+
+### Stage 1: Minjerribah Bee Resilience Institute
+
+Set up a not-for-profit institute first. It can run workshops, citizen science, school programs, beekeeper training, internships and partner university field schools without pretending to be a registered university.
+
+Possible name:
+
+**Minjerribah Institute for Bee Health, Biosecurity and Regenerative Futures**
+
+It can partner with UQ, SCU, QUT, Griffith or TAFE Queensland to deliver accredited or microcredentialed training through already registered providers.
+
+### Stage 2: University-backed field school
+
+Create a formal Straddie field school:
+
+**Bee Biosecurity, Island Ecology and Community Science Field School**
+
+Students from UQ, SCU, QUT and Griffith come to Straddie. Local beekeepers teach practical hive reality. Researchers teach diagnostics and experimental design. Quandamooka partners shape Country, culture and governance content.
+
+### Stage 3: Registered higher education provider
+
+Once the institute has governance, staff, policies, quality assurance, finances, student support and curriculum, it can prepare a TEQSA application as an independent higher education provider. That is where it starts offering its own accredited course.
+
+First possible course:
+
+**Graduate Certificate in Community Biosecurity and Pollinator Resilience**
+
+### Stage 4: University College
+
+After years of credible teaching, research, finances and governance, the institute could apply to change category. TEQSA recognises provider categories including Institute of Higher Education, University College, Australian University and Overseas University, and registered providers can apply to change category. ([TEQSA][18])
+
+### Stage 5: Australian University
+
+Only after strong research output, research training, multiple disciplines, academic governance and national/international standing should it seek full university status.
+
+The believable long-term identity is not just “bee university.” It could become:
+
+**Minjerribah University of Regenerative Biosecurity and Human-Earth Systems**
+
+Core schools:
+
+| School                                                   | Focus                                                      |
+| -------------------------------------------------------- | ---------------------------------------------------------- |
+| School of Bee Health and Pollinator Futures              | varroa, SHB, native bees, pollination                      |
+| School of Island Biosecurity                             | invasive species, surveillance, community response         |
+| School of Quandamooka Knowledge and Regenerative Futures | Country-led research, culture, governance                  |
+| School of Bioactive Natural Products                     | native plant chemistry, benefit-sharing, safe formulations |
+| School of XR, Data and Civic Science                     | digital twins, dashboards, AI-supported citizen science    |
+
+That connects neatly with your broader Aura of Intelligence / G.A.J.R.A. Earth thinking: the lab becomes a real-world “small island, big system” prototype for joyful responsible abundance — not airy-fairy, but boots, bees, microscopes and community data. Bloody beautiful, honestly.
+
+## Immediate action script
+
+Here is the practical next move.
+
+**Step 1: convene the Straddie beekeepers.**
+Hold a meeting at Amity, Dunwich or MBRS. The agenda is not “please tell experts what you saw.” It is: “What are we already seeing, what are we already doing, and what support would make a difference?”
+
+**Step 2: appoint three temporary coordinators.**
+One beekeeper coordinator, one university/funding coordinator, one QYAC/community governance coordinator.
+
+**Step 3: produce the Straddie Bee Health Situation Report.**
+Two pages. No fluff. Local observations, number of willing beekeepers, sample photos, current Queensland varroa status, proposed lab, partner asks.
+
+**Step 4: ask UQ MBRS for a meeting.**
+The ask: a bench, a training room, a safety pathway, and permission to build a university-backed island bee lab pilot.
+
+**Step 5: ask SCU Bee Research and Extension Lab for technical partnership.**
+The ask: help design mite/beetle monitoring protocols, beekeeper extension, and IPM training.
+
+**Step 6: ask Biosecurity Queensland for a non-punitive support pathway.**
+The ask: help local beekeepers report correctly, confirm IDs, and avoid accidental spread.
+
+**Step 7: apply for seed funding.**
+Use the first funds for microscopes, monitoring kits, a part-time technician, beekeeper workshops and sample logistics.
+
+## Bottom line
+
+The revised plan is:
+
+**Build the lab on Straddie. Start with local beekeeper evidence. Use MBRS as the first physical base. Bring in UQ and SCU first. Add QUT, Griffith, DPI, QBA and CSIRO around defined work packages. Protect beekeeper trust. Co-design with Quandamooka authority. Treat mites and beetles as an active island problem now. Grow the lab into an institute, then only later into a registered higher education provider or university.**
+
+That gives you a serious plan, not a polite academic shrug.
+
+[1]: https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/animal/industries/bees/pests-diseases "Pests and diseases in bees | Business Queensland"
+[2]: https://beeaware.org.au/archive-pest/small-hive-beetle/ "Small hive beetle « Bee Aware"
+[3]: https://science.qld.gov.au/research/capability-directory/moreton-bay-research-station "Moreton Bay Research Station | Science | Department of the Environment, Tourism, Science and Innovation, Queensland"
+[4]: https://moreton-bay.research.uq.edu.au/contact "Contact - Moreton Bay Research Station - University of Queensland"
+[5]: https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/animal/industries/bees/varroa-mite/report-hive-check?utm_source=chatgpt.com "Bee 123: Varroa mite hive check"
+[6]: https://moreton-bay.research.uq.edu.au/article/2019/09/uq-partners-north-stradbroke-indigenous-community "UQ partners with North Stradbroke Indigenous community - Moreton Bay Research Station - University of Queensland"
+[7]: https://moreton-bay.research.uq.edu.au/ "Moreton Bay Research Station - University of Queensland"
+[8]: https://www.scu.edu.au/research/bee-research-and-extension-lab/ "Bee Research and Extension Lab - Southern Cross University"
+[9]: https://about.uq.edu.au/experts/project/68525 "Precision receptor-specific miticides for safeguarding Australian bees (ARC Discovery Projects administered by University of the Sunshine Coast) | Project | UQ Experts"
+[10]: https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/animal/industries/bees/register?utm_source=chatgpt.com "Hive registration and branding"
+[11]: https://www.dpi.qld.gov.au/business-priorities/biosecurity/policy-legislation-regulation/biosecurity-act-2014/general-biosecurity-obligation?utm_source=chatgpt.com "General biosecurity obligation"
+[12]: https://www.apvma.gov.au/registrations-and-permits/permits/before-you-apply-permit/types-permits/export-research-and-miscellaneous-permits "Export, research and miscellaneous permits | Australian Pesticides and Veterinary Medicines Authority"
+[13]: https://environment.qld.gov.au/licences-permits/plants-animals/biodiscovery "Collecting biological native resources—Biodiscovery | Environment | Department of the Environment, Tourism, Science and Innovation, Queensland"
+[14]: https://www.business.qld.gov.au/industries/science-it-creative/science/biodiscovery/agreement "Biodiscovery benefit sharing agreement | Business Queensland"
+[15]: https://www.dpi.qld.gov.au/business-priorities/biosecurity/plant/community-bee-innovation-fund "Community Bee Innovation Fund | Department of Primary Industries, Queensland"
+[16]: https://www.teqsa.gov.au/guides-resources/resources/application-guide-initial-registration-new-higher-education-provider "Application Guide for initial registration as a new higher education provider | Tertiary Education Quality and Standards Agency"
+[17]: https://www.teqsa.gov.au/guides-resources/resources/guidance-notes/guidance-note-research-requirements-australian-universities "Guidance note: Research requirements for Australian universities | Tertiary Education Quality and Standards Agency"
+[18]: https://www.teqsa.gov.au/provider-registration/registered-providers/how-apply-change-provider-category "How to apply to change provider category | Tertiary Education Quality and Standards Agency"
